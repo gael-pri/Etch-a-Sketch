@@ -1,0 +1,1 @@
+let numSquare = 16;
